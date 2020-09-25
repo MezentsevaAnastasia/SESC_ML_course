@@ -1,7 +1,7 @@
 # Материалы для спецкурса "Машинное обучение" СУНЦ НГУ
 | № | Тема                  | Материалы | Часы | Дата |
 |---|-----------------------|-----------|------|------|
-| 1 | Стек технологий (ПО, Colab, virtualenv)|  [Лекция] (https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/instruments_technologies)|   ||
+| 1 | Стек технологий (ПО, Colab, virtualenv)|  [Лекция](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/instruments_technologies)|   ||
 | 2 | Git, Kaggle |  Лекция, задания|   ||
 | 3 | Python(типы данных, операторы, циклы) + PEPы |    [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics)       |   |      |
 | 4 | Работа с файлами и функциями + tqdm, time, try... except |Лекция, задания  | |      |
