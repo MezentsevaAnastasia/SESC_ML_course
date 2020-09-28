@@ -2,20 +2,22 @@
 | № | Тема                  | Материалы | Часы | Дата |
 |---|-----------------------|-----------|------|------|
 | 1 | Стек технологий (ПО, Colab, virtualenv)|  [Лекция](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/instruments_technologies)|   |21.09|
-| 2 | Git, Kaggle |  Лекция, задания|   |28.09|
+| 2 | Git |  [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/git)|   |28.09|
 | 3 | Python(типы данных, операторы, циклы) + PEPы |    [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics)       |   |26.09|
 | 4 | Работа с файлами и функциями + tqdm, time, try... except |Лекция, задания  | |      |
-| 5 | xml |Лекция, задания |     |      |
-| 6 | json |  Лекция, задания |     |      |
+| 5 | xml, json |Лекция, задания |     |      |
+| 6 | Kaggle |  Лекция, задания |     |      |
 | 7 | csv + pandas |Лекция, задания     |    |      |
-| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |     |26.09,|
-| 9 | ООП|Лекция, задания |    |      |
-| 10| Тестирование (pytest)|Лекция, задания           |     |      |
-|11 | Основы матстатистики + валидация, метрики. |Лекция, задания|     |      |
-|12 | Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
-|13 | Классификация, кластеризация и тд + sklearn |Лекция, задания||      |
-|14 | Нейронные сети (слои) |Лекция, задания | |      |
-|15 | Keras |Лекция, задания |     |      |
+| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |     |26.09|
+| 9 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/collections) |    |      |
+| 10| ООП|Лекция, задания |    |      |
+| 11| Тестирование (pytest)|Лекция, задания           |     |      |
+|12 | Основы матстатистики + валидация, метрики. |Лекция, задания|     |      |
+|13 | Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
+|14 | Классификация, кластеризация и тд + sklearn |Лекция, задания||      |
+|15 | Нейронные сети (слои) |Лекция, задания | |      |
+|16 | Keras/PyTorch |Лекция, задания |     |      |
+
 
 # Файлы:
 `machine_learning.pdf` - презентация с представления направлений 20.08  
