@@ -4,7 +4,7 @@
 | 1 | Стек технологий (ПО, Colab, virtualenv)|  [Лекция](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/instruments_technologies)|   |21.09|
 | 2 | Git |  [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/git)|   |28.09|
 | 3 | Python(типы данных, операторы, циклы) + PEPы |    [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics)       |   |26.09|
-| 4 | Работа с файлами и функциями + tqdm, time, try... except |Лекция, задания  | |      |
+| 4 | Работа с файлами и функциями, try... except, os |Лекция, задания  | |      |
 | 5 | xml, json |Лекция, задания |     |      |
 | 6 | Kaggle |  Лекция, задания |     |      |
 | 7 | csv + pandas |Лекция, задания     |    |      |
