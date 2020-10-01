@@ -7,17 +7,16 @@
 | 4 | Работа с файлами и функциями, глобальные и локальные переменные, os |Лекция, задания | |03.10|
 | 5 | Try... except, ошибки и исключения, time, tqdm |Лекция, задания  | |      |
 | 6 | xml, json |Лекция, задания |     |      |
-| 7 | Kaggle |  Лекция, задания |     |      |
-| 8 | csv + pandas |Лекция, задания     |    |      |
-| 9 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |     |26.09|
-| 10 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/collections) |    |      |
-| 11| ООП|Лекция, задания |    |      |
-| 12| Тестирование (pytest)|Лекция, задания           |     |      |
-|13 | Основы матстатистики + валидация, метрики. |Лекция, задания|     |      |
-|14 | Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
-|15 | Классификация, кластеризация и тд + sklearn |Лекция, задания||      |
-|16 | Нейронные сети (слои) |Лекция, задания | |      |
-|17 | Keras/PyTorch |Лекция, задания |     |      |
+| 7 | csv + pandas |Лекция, задания     |    |      |
+| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |     |26.09|
+| 9 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/collections) |    |      |
+| 10| ООП|Лекция, задания |    |      |
+| 11| Тестирование (pytest)|Лекция, задания           |     |      |
+|12 | Основы матстатистики + валидация, метрики. |Лекция, задания|     |      |
+|13 | Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
+|14 | Классификация, кластеризация и тд + sklearn |Лекция, задания||      |
+|15 | Нейронные сети (слои) |Лекция, задания | |      |
+|16 | Keras/PyTorch |Лекция, задания |     |      |
 
 
 # Файлы:
