@@ -5,7 +5,7 @@
 | 2 | Git |  [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/git)|   |28.09|
 | 3 | Python(типы данных, операторы, циклы) + PEPы |    [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%201)|   |26.09|
 | 4 | Работа с файлами и функциями, глобальные и локальные переменные, os |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%202) | |03.10|
-| 5 | Try... except, ошибки и исключения, time, tqdm |Лекция, задания  | |      |
+| 5 | Try... except, ошибки и исключения, time, tqdm |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%203)  | |      |
 | 6 | xml, json |Лекция, задания |     |      |
 | 7 | csv + pandas |Лекция, задания     |    |      |
 | 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |     |26.09|
