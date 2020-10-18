@@ -15,7 +15,7 @@
 |12 |Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
 |13 |Элементы машинного обучения (kNN, валидация, метрики)|[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ml_basics)|2|3.10 |
 |14 | Нейронные сети |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks)|2|  10.10    |
-|15 | PyTorch: введение | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks/pytorch_basics)| 2|  17.10   |
+|15 | PyTorch: введение | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks/lecture_neural_networks_continuous.pdf)| 2|  17.10   |
 |16 | PyTorch и подробности | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks) | |      |
 |17 | Нейронные сети на практике |Лекция, задания |     |      |
 
