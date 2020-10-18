@@ -19,7 +19,8 @@
 |16 | PyTorch и подробности | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks) | |      |
 |17 | Нейронные сети на практике |Лекция, задания |     |      |
 
-**Курс Семёна Козлова с практическими заданиями - https://dlcourse.ai/ **
+**Курс Семёна Козлова с практическими заданиями - https://dlcourse.ai/ **  
+**[Convolutional Neural Networks for Visual Recognition(Сверточные нейронные сети для компьютерного зрения)](http://cs231n.stanford.edu/)**
 
 # Файлы:
 `machine_learning.pdf` - презентация с представления направлений 20.08  
@@ -30,6 +31,7 @@
 * [DataCamp](https://www.datacamp.com/) - портал с подробными обучающими статьями/инструкциями по основными темам, а также обучающие курсы.
 * [MarkDown](https://www.markdownguide.org/basic-syntax/) - базовая инструкция к языку, который используется в заполнении ReadMe и в текстовых полях Google Colab.  
 * A byte of python - понятная и без воды книга про питон  
-* Объяснение математических основ нейронных сетей простым и понятным языком - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (есть русские субтитры)  
-Русскоязычные ресурсы:
+* Объяснение математических основ нейронных сетей простым и понятным языком - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (есть русские субтитры)
+  
+Русскоязычные ресурсы:  
 * [YouTube-канал](https://www.youtube.com/user/VideoMatan) с понятными материалами по математике.
