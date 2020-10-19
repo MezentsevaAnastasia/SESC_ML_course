@@ -7,8 +7,8 @@
 | 4 | Работа с файлами и функциями, глобальные и локальные переменные, os |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%202) |1 |03.10|
 | 5 | Try ... except, ошибки и исключения, time, tqdm |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%203)|1 |05.10|
 | 6 | xml, html + requests, json |Лекция, задания |   1  |10.10|
-| 7 | csv + pandas |Лекция, задания     |    |      |
-| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |   2  |26.09|
+| 7 | csv + pandas |Лекция, задания     |    |19.09|
+| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)           |   2  |26.09, 17.09|
 | 9 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/collections) |  2  |    28.09  |
 |10 | ООП|Лекция, задания |    |      |
 |11 | Тестирование (pytest)|Лекция, задания |     |      |
