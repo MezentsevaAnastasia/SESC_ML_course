@@ -2,7 +2,7 @@
 
 
 **1 занятие** -- типы данных, операторы, циклы в языке Python, задание + домашнее задание: изучить самоятоятельно PEPы. 
-_Достаточно доступно и понятно оформленную на русском языке информацию можно посмотреть по ссылке_ https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html  
+_Достаточно доступно и понятно оформленную на русском языке информацию можно посмотреть по ссылке_ `https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html` 
   
 **2 занятие** -- функции, lambda-функции, работа с файлами, модуль os для работы с операционной системой, задание
 
@@ -39,3 +39,11 @@ _Статьи для самостоятельного изучения:_
 _Статьи для самостоятельного чтения_
 `https://pythonworld.ru/moduli/modul-collections.html` -- наш любимый python world;
 `https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15` -- статья с примерами на proglib.
+
+**11 занятие** -- визуализация данных при помощи matplotlib и seaborn.
+_Статьи для самостоятельного чтения_
+`https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.patches.Rectangle.html` -- официальная документация библиотеки matplotlib;
+`https://devpractice.ru/matplotlib-lesson-1-quick-start-guide/` -- 1 урок из цикла уроков по matplotlib (внизу по стрелочке можем переходить к следующим урокам)
+`https://habr.com/ru/company/ods/blog/323210/` -- тема 2 открытого курса машинного обучения: визуализация данных при помощи matplotlib и seaborn (P.S. если кто-то запамятовал, как работать с pandas, загляните в тему 1 -- `https://habr.com/ru/company/ods/blog/322626/`)
+`https://nagornyy.me/courses/data-science/intro-to-seaborn/` -- введение в seaborn.
+
