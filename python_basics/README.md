@@ -47,3 +47,5 @@ _Статьи для самостоятельного чтения_
 `https://habr.com/ru/company/ods/blog/323210/` -- тема 2 открытого курса машинного обучения: визуализация данных при помощи matplotlib и seaborn (P.S. если кто-то запамятовал, как работать с pandas, загляните в тему 1 -- `https://habr.com/ru/company/ods/blog/322626/`)
 `https://nagornyy.me/courses/data-science/intro-to-seaborn/` -- введение в seaborn.
 
+_Задание:_ `https://github.com/MezentsevaAnastasia/SESC_ML_course/blob/master/визуализация%20данных/matplotlib_task.ipynb`
+
