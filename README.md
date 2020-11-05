@@ -19,7 +19,7 @@
 |16 | PyTorch и подробности | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks) | |      |
 |17 | Нейронные сети на практике |Лекция, задания |     |      |
 
-**Курс Семёна Козлова с практическими заданиями - https://dlcourse.ai/ **  
+**Курс Семёна Козлова с практическими заданиями** - https://dlcourse.ai/  
 **[Convolutional Neural Networks for Visual Recognition(Сверточные нейронные сети для компьютерного зрения)](http://cs231n.stanford.edu/)**
 
 # Файлы:
