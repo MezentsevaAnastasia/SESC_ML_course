@@ -8,15 +8,15 @@
 | 5 | Try ... except, ошибки и исключения, time, tqdm |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/лекция%203)|1 |05.10|
 | 6 | xml, html + requests, json |Лекция, задания |   1  |10.10|
 | 7 | csv + pandas |Лекция, задания     |    |19.09|
-| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/numpy)|2|26.09, 17.09|
-| 9 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/collections) |  2  |    28.09  |
+| 8 | numpy |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/numpy)|2|26.09, 17.09|
+| 9 | Collections |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/python_basics/collections) |  2  |    28.09  |
 |10 | ООП|Лекция, задания |    |      |
 |11 | Тестирование (pytest)|Лекция, задания |     |      |
 |12 |Визуализация данных (Matplotlib и Seaborn) |Лекция, задания|    |      |
-|13 |Элементы машинного обучения (kNN, валидация, метрики)|[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ml_basics)|2|3.10 |
-|14 | Нейронные сети |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks)|2|  10.10    |
-|15 | PyTorch: введение | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks/lecture_neural_networks_continuous.pdf)| 2|  17.10   |
-|16 | PyTorch и подробности | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/neural_networks) | 2|      |
+|13 |Элементы машинного обучения (kNN, валидация, метрики)|[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ML/ml_basics)|2|3.10 |
+|14 | Нейронные сети |[Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ML/neural_networks)|2|  10.10    |
+|15 | PyTorch: введение | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ML/neural_networks/lecture_neural_networks_continuous.pdf)| 2|  17.10   |
+|16 | PyTorch и подробности | [Лекция, задания](https://github.com/MezentsevaAnastasia/SESC_ML_course/tree/master/ML/neural_networks) | 2|      |
 |17 | Нейронные сети на практике |Лекция | 2    |    31.10  |
 |18 | Погружение в NLP |Лекция |  -   |    24.10  |
 |19 | CNNs and RNNs | Лекция | 2| 2.11|
@@ -37,7 +37,7 @@
 Только английский язык:
 * [DataCamp](https://www.datacamp.com/) - портал с подробными обучающими статьями/инструкциями по основными темам, а также обучающие курсы.
 * [MarkDown](https://www.markdownguide.org/basic-syntax/) - базовая инструкция к языку, который используется в заполнении ReadMe и в текстовых полях Google Colab.  
-* A byte of python - понятная и без воды книга про питон  
+* "A byte of python" - понятная и без воды книга про питон.  
 * Объяснение математических основ нейронных сетей простым и понятным языком - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (есть русские субтитры)
 # Папки:
 `git` - материалы лекции по git;
